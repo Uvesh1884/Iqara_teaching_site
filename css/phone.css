@@ -1,0 +1,51 @@
+#header{
+    background-image:none;
+    height: 65vh;
+}
+.container {
+    margin-right: 50px;
+    margin-left: 50px;
+}
+.container .text {
+    margin-top: 87px;
+}
+.footer-container{
+    padding: 20px 0px;
+    margin-left: 11px;
+    justify-content: space-around;
+}
+.link-text {
+    padding: 0px 0px;
+    text-align: left;
+    width: 90px;
+}
+.right-footer-text {
+    text-align: left;
+    margin-top: 15px;
+}
+#about{
+    display: flex;
+    flex-direction: column;
+}
+.about-text {
+    text-align: center;
+    margin: auto;
+}
+
+#about .right-side {
+    padding: 42px 20px;
+    line-height: 25px;
+}
+#courses .course-container{
+    padding-left: 40px
+}
+#offers{
+    flex-direction: column;
+    line-height: 25px;
+}
+#offers .right-side {
+    padding: 100px;
+}
+.contact-container{
+    margin-top: -40px;
+}
